@@ -50,4 +50,4 @@
 ### GitHub Stats ⭐
 ![lnpinto's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnpinto&hide=stars,issues&show_icons=true&theme=dracula)
 
-Mais informações na minha página do [LinkedIn](https://www.linkedin.com/in/lucas-n-pinto/) 🚀
+<!---Mais informações na minha página do [LinkedIn](https://www.linkedin.com/in/lucas-n-pinto/) 🚀-->
