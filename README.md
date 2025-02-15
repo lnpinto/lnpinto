@@ -27,7 +27,7 @@
 ### Formação Acadêmica 🎓
 - **Back-end Java, Programa Desenvolva+** @ ADA Tech (dez/2024 - maio/2025)
 - **Análise e Ciência de Dados** @ Escola DNC (jan/2024 - fev/2025)
-- [Mestrado](https://www.teses.usp.br/teses/disponiveis/8/8143/tde-29092020-182737/pt-br.php#referencias) @ USP (2019 - 2023)
+- [Mestrado](https://www.teses.usp.br/teses/disponiveis/8/8143/tde-29092020-182737/pt-br.php#referencias) @ USP (2017 - 2020)
 
 <!--- ### Projects 🐾
 
