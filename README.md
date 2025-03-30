@@ -1,9 +1,9 @@
 ## Hello, there 👋
 
 
-### Eu sou o Lucas e ❤️ Desemvolvimento de Software e Ciência de Dados
+### Eu sou o Lucas e ❤️ Ciência de Dados e Desenvolvimento de Software
 
-**Interesses**: Desenvolvimento Web, ML, NLP
+**Interesses**: ML, NLP, Desenvolvimento Web
 
 <!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
